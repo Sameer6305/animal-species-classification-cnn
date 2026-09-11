@@ -1,11 +1,20 @@
 data/raw/
 data/processed/
+data/processed_manifest_raw.csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
 venv/
+.venv/
 .env
 *.h5
 *.pt
 *.pth
 outputs/logs/
+
+# OS/editor clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
